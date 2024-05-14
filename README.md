@@ -1,4 +1,4 @@
-![image](https://github.com/offlayt/offlayt/assets/118287517/3bbcd06c-9a9e-4d46-9634-9781b2979ed9)
+<img src="https://i.pinimg.com/564x/01/5c/de/015cdeec23c98d1b9a9fdbcee84c9578.jpg" width="700" height="400">
 - 🔭 I’m currently working on =]
 - 🌱 I’m currently learning =]
 - 👯 I’m looking to collaborate on =]
